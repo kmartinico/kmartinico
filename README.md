@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kmartinico
 - 👀 I’m interested in learning how to become a full stack developer.
 - 🌱 I’m currently learning the basics of coding.
-- 💞️ I’m looking to collaborate on basic projects to build my skills.
+- 💞️ I’m looking to collaborate on beginner friendly projects to build my skills.
 - 📫 How to reach me- kiah.martinico@gmail.com
 
 <!---
